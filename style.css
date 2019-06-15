@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    background-color:rgb(204, 234, 255);
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: aqua;
+}
+.row{
+    margin-left:10%;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+img{
+    width:100px;
+    height:100px;
+}
+a{
+    color:black;
+    font-weight: bold;
+}
+a:hover {
+    /* font-weight: bold; */
+    text-decoration: none;
+    color:black;
+  }
+  li{
+    list-style: none;
+    font-weight:bold;
+  }
+  .abm{
+      font-style:italic;
+  }
+  .mtop{
+      margin-top:10px;
+  }
